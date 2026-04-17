@@ -1,11 +1,10 @@
 # Yashar Heidari — Marketing Specialist Portfolio
 
-Data-driven growth, lifecycle, and conversion campaigns.
+Professional landing page and experience summary.
 
 ## Live
 
-- Live site: https://yheidari.github.io/marketing-specialist/
-- Repository: https://github.com/yheidari/marketing-specialist
+- Site: https://yheidari.github.io/marketing-specialist/
 
 ## Profile
 
@@ -13,7 +12,6 @@ Marketing Specialist with 5 years of experience driving conversion, lifecycle, a
 
 ## Contact
 
-- Location: Messina, Italy · Open to Remote
+- Location: Messina, Italy | Open to remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
-- GitHub: https://github.com/yheidari/marketing-specialist
